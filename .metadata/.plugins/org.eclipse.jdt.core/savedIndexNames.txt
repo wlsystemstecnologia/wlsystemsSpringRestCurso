@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+W:\Cursos_Udemy\Spring Boot, Hibernate, REST, Ionic, S3, Mysql, MongoDB\cursomc\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
